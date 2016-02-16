@@ -3,4 +3,5 @@ ES6 via Babel/Browserify/Gulp
 
 
 Install: npm install
-Run gulp watch
+
+Run: gulp watch
